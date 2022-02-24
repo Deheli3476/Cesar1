@@ -1,6 +1,18 @@
 body{
-    background-color:red;
+    background-color:#C7B6B6;
+    margin: 0px;
+    padding: 0px;
 }
 div{
     
+    border-width:10px;
+    border-color: white;
+    border-style: solid;
+    color: #896565;
+    line-height:91.1px ;
+    text-align: center;
+}
+#titre{
+    background-color:white;
+    font-size: 62px;
 }
