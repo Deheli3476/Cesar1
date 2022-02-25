@@ -3,15 +3,46 @@ body{
     margin: 0px;
     padding: 0px;
 }
-div{
+
+#titre{
+    background-color:white;
+    font-size: 62px;
     border-width:10px;
     border-color: white;
     border-style: solid;
     color: #896565;
     line-height:91.1px ;
     text-align: center;
+    box-shadow: 10px 5px 5px grey;
+    
 }
-#titre{
-    background-color:white;
-    font-size: 62px;
+#explication{
+
+    border-radius: 30px;
+    background-color:#F8F7F7;
+    font-size: 35px;
+    border-width:10px;
+    border-color: #F8F7F7;
+    border-style: solid;
+    color: #896565;
+    line-height:91.1px ;
+    text-align: center;
+    margin:90px;
+    padding:90px;
+}
+#commencer{
+    border-radius: 30px;
+    background-color:#EBD4D4;
+    font-size: 35px;
+    border-width:10px;
+    border-color: #EBD4D4;
+    border-style: solid;
+    color: #896565;
+    line-height:50px ;
+    text-align: center;
+    margin:145px;
+    padding:50px;
+    margin-top: 20px;
+    box-shadow: 10px 5px 5px grey;
+
 }
