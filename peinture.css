@@ -1,0 +1,31 @@
+body{
+    background-color:#C7B6B6;
+    margin: 0px;
+    padding: 0px;
+}
+#titre{
+    background-color:white;
+    font-size: 62px;
+    border-width:10px;
+    border-color: white;
+    border-style: solid;
+    color: #896565;
+    line-height:91.1px ;
+    text-align: center;
+    box-shadow: 10px 5px 5px grey;
+    
+}
+.acceuil{
+    color:#796464;
+    position: absolute;
+    left: 2%;
+    top: 4%;
+    border-radius: 30px;
+    background-color: #DDBFBF;
+    border-color:#DDBFBF;
+    width: 128px;
+    height: 35px;
+    text-align: center; 
+    font-size: 21px;
+    line-height: px;    
+}
