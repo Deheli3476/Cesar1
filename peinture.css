@@ -15,11 +15,11 @@ body{
     box-shadow: 10px 5px 5px grey;
     
 }
-.acceuil{
+.styled{
     color:#796464;
     position: absolute;
     left: 2%;
-    top: 4%;
+    top: 6%;
     border-radius: 30px;
     background-color: #DDBFBF;
     border-color:#DDBFBF;
