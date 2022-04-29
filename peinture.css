@@ -14,11 +14,11 @@ body{
     text-align: center;
     box-shadow: 10px 5px 5px grey;
 }
-.acceuil{
+.styled{
     color:#796464;
     position: absolute;
-    left: 2%;
-    top: 4%;
+    left: 3%;
+    top: 5%;
     border-radius: 30px;
     background-color: #DDBFBF;
     border-color:#DDBFBF;
