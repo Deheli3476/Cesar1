@@ -1,0 +1,109 @@
+body{
+    background-color:#C7B6B6;
+    margin: 0px;
+    padding: 0px;
+}
+#titre{
+    background-color:white;
+    font-size: 62px;
+    border-width:10px;
+    border-color: white;
+    border-style: solid;
+    color: #896565;
+    line-height:91.1px ;
+    text-align: center;
+    box-shadow: 10px 5px 5px grey;
+}
+.styled{
+    color:#796464;
+    position: absolute;
+    left: 3%;
+    top: 5%;
+    border-radius: 30px;
+    background-color: #DDBFBF;
+    border-color:#DDBFBF;
+    width: 128px;
+    height: 35px;
+    text-align: center; 
+    font-size: 21px;
+    line-height: px;
+}
+#paint{
+    color:#796464;
+    position: absolute;
+    left: 13%;
+    top: 5%;
+    border-radius: 30px;
+    background-color: #DDBFBF;
+    border-color:#DDBFBF;
+    width: 128px;
+    height: 35px;
+    text-align: center; 
+    font-size: 21px;
+    line-height: px;   
+}
+
+img{
+    height: 70%;
+    width: 45%;
+    padding: 7%;
+
+}
+
+#nom{
+    background-color:#F4F4F4;
+    font-size: 35px;
+    border-width:1px;
+    border-color: #F4F4F4;
+    border-style: solid;
+    color: #CE8282;
+    /* line-height: 5%; */
+    text-align: center;
+    height: 7%;
+    width: 35%;
+    position: absolute;
+    right: 6%;
+    top: 25%
+}
+#date{
+    background-color:#F4F4F4;
+    font-size: 35px;
+    border-width:1px;
+    border-color: #F4F4F4;
+    border-style: solid;
+    color: #CE8282;
+    /* line-height: 5%; */
+    text-align: center;
+    height:14%;
+    width: 35%;
+    position: absolute;
+    right: 6%;
+    top: 35%;
+    
+}
+#oeuvre{
+    background-color:#F4F4F4;
+    font-size: 35px;
+    border-width:1px;
+    border-color: #F4F4F4;
+    border-style: solid;
+    color: #CE8282;
+    text-align: center;
+    height: 7%;
+    width: 35%;
+    margin-left:59%;
+    margin-top: -40%;
+}
+#vie{
+    background-color:#F4F4F4;
+    font-size: 35px;
+    border-width:1px;
+    border-color: #F4F4F4;
+    border-style: solid;
+    color: #CE8282;
+    text-align: center;
+    height: 7%;
+    width: 35%;
+    margin-left:59%;
+    margin-top: 2%;
+}
