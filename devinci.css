@@ -1,7 +1,5 @@
 body{
     background-color:#C7B6B6;
-    margin: 0px;
-    padding: 0px;
 }
 #titre{
     background-color:white;
@@ -26,7 +24,6 @@ body{
     height: 35px;
     text-align: center; 
     font-size: 21px;
-    line-height: px;
 }
 #paint{
     color:#796464;
@@ -40,7 +37,6 @@ body{
     height: 35px;
     text-align: center; 
     font-size: 21px;
-    line-height: px;   
 }
 
 img{
@@ -57,7 +53,6 @@ img{
     border-color: #F4F4F4;
     border-style: solid;
     color: #CE8282;
-    /* line-height: 5%; */
     text-align: center;
     height: 7%;
     width: 35%;
@@ -72,7 +67,6 @@ img{
     border-color: #F4F4F4;
     border-style: solid;
     color: #CE8282;
-    /* line-height: 5%; */
     text-align: center;
     height: 7%;
     width: 35%;
@@ -92,7 +86,7 @@ img{
     height: 7%;
     width: 35%;
     margin-left:59%;
-    margin-top: -54%;
+    margin-top: -60%;
 }
 #vie{
     background-color:#F4F4F4;
